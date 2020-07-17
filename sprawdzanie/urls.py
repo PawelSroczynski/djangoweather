@@ -1,3 +1,5 @@
+# This is a comment
+
 from django.urls import path, include
 from . import views
 
